@@ -71,3 +71,5 @@ UML類圖中有六種關係，分別是依賴關係，關聯關係，聚合關�
 # 參考資料
 
 [https://segmentfault.com/a/1190000021317534](https://segmentfault.com/a/1190000021317534)
+
+[UML实例（二）：在线购物系统用例图](https://gitcode.csdn.net/65ed84b71a836825ed79c725.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NDAwNDA0LCJleHAiOjE3MjkxNTA5NjUsImlhdCI6MTcyODU0NjE2NSwidXNlcm5hbWUiOiJOYXNvblllaGZtIn0.8LFmq6l9ZAfJkIfOLc0M1ng3YjwSKCvQE8M7KxcddbA&spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-16-92119483-blog-116096436.235%5Ev43%5Econtrol&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-16-92119483-blog-116096436.235%5Ev43%5Econtrol)
