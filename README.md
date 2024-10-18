@@ -52,6 +52,10 @@ UML類圖中有六種關係，分別是依賴關係，關聯關係，聚合關�
 
 六種關係中，從弱到強依次是： 依賴關係 < 關聯關係 < 聚合關係 < 組合關係 < 實現關係 = 泛化關係
 
+# UML設計圖原檔
+
+![image](https://github.com/11024153/Software/blob/main/%E7%94%A8%E4%BE%8B.jpeg)
+
 # 參考資料
 
 [https://segmentfault.com/a/1190000021317534](https://segmentfault.com/a/1190000021317534)
